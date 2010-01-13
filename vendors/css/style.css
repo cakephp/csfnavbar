@@ -24,6 +24,8 @@
  */
 #cakephp-global-navigation {
 	background: #999 url('../img/background.png') left top repeat-x;
+	position: relative;
+	z-index: 999;
 }
 #cakephp-global-navigation ul {
 	height: 25px;
@@ -102,7 +104,7 @@
 #cakephp-global-navigation ul li:hover ul,
 #cakephp-global-navigation ul li.sfhover ul {
 	display: block;
-	margin-left: 0;
+	margin: 0;
 }
 /**
  * Third level navigation
