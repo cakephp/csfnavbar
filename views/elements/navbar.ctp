@@ -24,14 +24,15 @@
 		<li><a href="http://book.cakephp.org">Book</a></li>
 		<li><a href="http://translation.cakephp.org">Translations</a></li>
 		<li><a href="http://cakephp.lighthouseapp.com">Tickets</a></li>
-		<li><a href="http://cakephp.tv">Screencasts</a></li>
+		<!-- <li><a href="http://cakephp.tv">Screencasts</a></li> -->
 	</ul></li>
 	<li><span>Community</span><ul>
 		<li><a href="http://groups.google.com/group/cake-php">Google Groups</a></li>
 		<li><a href="http://cakeqs.org">CakeQs</a></li>
 		<li><a href="http://bakery.cakephp.org">Bakery</a></li>
-		<li><a href="#">Contributors</a></li>
-		<li><a href="#">Logo</a></li>
+		<li><a href="http://cakephp.org/planet">Planet</a></li>
+		<li><a href="http://cakephp.lighthouseapp.com/contributors">Contributors</a></li>
+		<li><a href="http://cakephp.org/logos">Logo</a></li>
 	</ul></li>
 	<li><a href="http://cakephp.org/services">Services</a><ul>
 		<li><a href="http://cakephp.org/services/support">Support</a></li>
