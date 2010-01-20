@@ -55,6 +55,7 @@
 	position: relative;
 	width: 120px;
 	padding: 3px 0;
+	list-style-image: none;
 }
 #cakephp-global-navigation ul li:hover,
 #cakephp-global-navigation ul li.sfhover {
@@ -102,13 +103,15 @@
 	position: relative;
 	top: 1px;
 	left: -2px;
+	list-style: none;
+	background: #2c6877;
 }
 #cakephp-global-navigation ul li ul li {
 	display: block;
 	float: none;
 	width: 196px;
-	background: #2c6877;
 	padding: 2px;
+	margin: 0;
 }
 /* display on hover */
 #cakephp-global-navigation ul li:hover ul,
@@ -139,6 +142,7 @@
  */
 #cakephp-global-navigation ul ul ul {
 	border: 0;
+	background: none;
 }
 #cakephp-global-navigation .cake-version ul {
 	display: block;
@@ -149,6 +153,7 @@
 	float: left;
 	width: auto;
 	border-right: none;
+	background: none;
 }
 #cakephp-global-navigation .cake-version ul li a {
 	padding: 0 3px;
