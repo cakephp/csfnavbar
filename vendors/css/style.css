@@ -40,6 +40,9 @@
 	border-bottom: 2px solid #000;
 	position: relative;
 	z-index: 999;
+	-webkit-box-shadow: 0 3px 4px #222;
+	-moz-box-shadow: 0 3px 4px #222;
+	box-shadow: 0 3px 4px #222;
 }
 #cakephp-global-navigation ul {
 	height: 29px;
@@ -62,7 +65,7 @@
 	background: #2c6877;
 }
 #cakephp-global-navigation ul li.main {
-	background: transparent url('../img/main-link.png') left top no-repeat;
+	background: transparent url('../img/main-link.png') 0px 4px no-repeat;
 	margin-left: 0;
 	margin-right: 40px;
 	padding-left: 27px;
@@ -105,6 +108,9 @@
 	left: -2px;
 	list-style: none;
 	background: #2c6877;
+	-webkit-box-shadow: 0 3px 4px #222;
+	-moz-box-shadow: 0 3px 4px #222;
+	box-shadow: 0 3px 4px #222;
 }
 #cakephp-global-navigation ul li ul li {
 	display: block;
@@ -143,6 +149,9 @@
 #cakephp-global-navigation ul ul ul {
 	border: 0;
 	background: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
 }
 #cakephp-global-navigation .cake-version ul {
 	display: block;
