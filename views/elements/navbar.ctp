@@ -32,7 +32,7 @@
 		</li>
 		<li><span>Documentation</span>
 			<ul>
-				<li><a href="http://api.cakephp.org">API</a>
+				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul>
 						<li><a href="http://api11.cakephp.org">1.1</a>|</li>
 						<li><a href="http://api11.cakephp.org">1.2</a>|</li>
