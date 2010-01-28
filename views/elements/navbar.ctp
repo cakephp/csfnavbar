@@ -34,8 +34,8 @@
 			<ul>
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul>
-						<li><a href="http://api11.cakephp.org">1.1</a>|</li>
-						<li><a href="http://api11.cakephp.org">1.2</a>|</li>
+						<li><a href="http://api11.cakephp.org">1.1</a>&nbsp;|</li>
+						<li><a href="http://api11.cakephp.org">1.2</a>&nbsp;|</li>
 						<li><a href="http://api11.cakephp.org">1.3</a></li>
 					</ul>
 				</li>
