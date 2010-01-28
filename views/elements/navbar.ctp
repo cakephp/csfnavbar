@@ -32,7 +32,13 @@
 		</li>
 		<li><span>Documentation</span>
 			<ul>
-				<li><a href="http://api.cakephp.org">API</a></li>
+				<li><a href="http://api.cakephp.org">API</a>
+					<ul>
+						<li><a href="http://api11.cakephp.org">1.1</a>|</li>
+						<li><a href="http://api11.cakephp.org">1.2</a>|</li>
+						<li><a href="http://api11.cakephp.org">1.3</a></li>
+					</ul>
+				</li>
 				<li><a href="http://book.cakephp.org">Book</a></li>
 				<li><a href="http://translation.cakephp.org">Translations</a></li>
 				<li><a href="http://cakephp.lighthouseapp.com">Tickets</a></li>
