@@ -12,13 +12,13 @@
 				</li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp1x/tree/1.2">CakePHP 1.2</a>
 					<ul>
-						<li><a href="http://github.com/cakephp/cakephp1x/archives/1.2">Download</a>|</li>
+						<li><a href="http://github.com/cakephp/cakephp1x/archives/1.2">Download</a>&nbsp;|</li>
 						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp-1x/milestones/57820-126">Tickets</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp1x/tree/1.3">CakePHP 1.3</a>
 					<ul>
-						<li><a href="http://github.com/cakephp/cakephp1x/archives/1.3">Download</a>|</li>
+						<li><a href="http://github.com/cakephp/cakephp1x/archives/1.3">Download</a>&nbsp;|</li>
 						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp-1x/milestones/57813-130">Tickets</a></li>
 					</ul>
 				</li>
