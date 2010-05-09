@@ -39,7 +39,7 @@
 						<li><a href="http://api13.cakephp.org">1.3</a></li>
 					</ul>
 				</li>
-				<li><a href="http://book.cakephp.org">Book</a>
+				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
 					<ul>
 						<li><a href="http://book.cakephp.org/view/304/x1-1-Collection">1.1</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/view/2/x1-2-Collection">1.2</a>&nbsp;|</li>
