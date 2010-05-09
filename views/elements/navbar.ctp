@@ -4,28 +4,28 @@
 		<li><span>Downloads</span>
 			<ul>
 				<li><a href="http://cakephp.org">Latest Release</a></li>
-				<li class="cake-version"><a href="github.com/cakephp/cakephp1x">CakePHP 1.1</a>
+				<li class="cake-version"><a href="http://github.com/cakephp/cakephp">CakePHP 1.1</a>
 					<ul>
 						<li><a href="#">Download</a></li>
 					<!-- <li><a href="#">Tickets</a></li> -->
 					</ul>
 				</li>
-				<li class="cake-version"><a href="http://github.com/cakephp/cakephp1x/tree/1.2">CakePHP 1.2</a>
+				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.2">CakePHP 1.2</a>
 					<ul>
-						<li><a href="http://github.com/cakephp/cakephp1x/archives/1.2">Download</a>&nbsp;|</li>
-						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp-1x/milestones/57820-126">Tickets</a></li>
+						<li><a href="http://github.com/cakephp/cakephp/archives/1.2">Download</a>&nbsp;|</li>
+						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp/milestones">Tickets</a></li>
 					</ul>
 				</li>
-				<li class="cake-version"><a href="http://github.com/cakephp/cakephp1x/tree/1.3">CakePHP 1.3</a>
+				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.3">CakePHP 1.3</a>
 					<ul>
-						<li><a href="http://github.com/cakephp/cakephp1x/archives/1.3">Download</a>&nbsp;|</li>
-						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp-1x/milestones/57813-130">Tickets</a></li>
+						<li><a href="http://github.com/cakephp/cakephp/archives/1.3">Download</a>&nbsp;|</li>
+						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp/milestones">Tickets</a></li>
 					</ul>
 				</li>
-				<li class="cake-version"><a href="http://github.com/cakephp/cakephp2x/tree/master">CakePHP 2.0</a>
+				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/2.0">CakePHP 2.0</a>
 					<ul>
 					<!-- <li><a href="#">Download</a>|</li> -->
-					<li><a href="http://cakephp.lighthouseapp.com/projects/42649-cakephp-2x/milestones/57821-200">Tickets</a></li>
+					<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp/milestones">Tickets</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -39,7 +39,13 @@
 						<li><a href="http://api13.cakephp.org">1.3</a></li>
 					</ul>
 				</li>
-				<li><a href="http://book.cakephp.org">Book</a></li>
+				<li><a href="http://book.cakephp.org">Book</a>
+					<ul>
+						<li><a href="http://book.cakephp.org/view/304/x1-1-Collection">1.1</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/view/2/x1-2-Collection">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/view/875/x1-3-Collection">1.3</a></li>
+					</ul>
+				</li>
 				<li><a href="http://translation.cakephp.org">Translations</a></li>
 				<li><a href="http://cakephp.lighthouseapp.com">Tickets</a></li>
 				<!-- <li><a href="http://cakephp.tv">Screencasts</a></li> -->
@@ -51,7 +57,7 @@
 				<li><a href="http://cakeqs.org">CakeQs</a></li>
 				<li><a href="http://bakery.cakephp.org">Bakery</a></li>
 				<li><a href="http://cakephp.org/planet">Planet</a></li>
-				<li><a href="http://cakephp.lighthouseapp.com/contributors">Contributors</a></li>
+				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
 				<li><a href="http://cakephp.org/logos">Logo</a></li>
 			</ul>
 		</li>
