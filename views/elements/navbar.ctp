@@ -51,8 +51,8 @@
 				<li><a href="http://groups.google.com/group/cake-php">Google Groups</a></li>
 				<li><a href="http://cakephp.org/logos">Logo</a></li>
 				<li><a href="http://cakephp.org/planet">Planet</a></li>
-				<li><a href="http://ask.cakeqs.org">Q &amp; A</a></li>
-				<li><a href="http://tv.cakeqs.org">TV (Screencasts)</a></li>
+				<li><a href="http://ask.cakephp.org">Q &amp; A</a></li>
+				<li><a href="http://tv.cakephp.org">TV (Screencasts)</a></li>
 			</ul>
 		</li>
 		<li><a href="http://cakephp.org/services">Services</a>
