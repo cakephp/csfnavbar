@@ -1,7 +1,7 @@
 <div id="cakephp-global-navigation">
 	<ul>
 		<li class="main"><a href="http://cakephp.org">CakePHP</a></li>
-		<li><span>Downloads</span>
+		<li><a href="#" class="empty">Downloads</a>
 			<ul>
 				<li><a href="http://cakephp.org">Latest Release</a></li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.2">CakePHP 1.2</a>
@@ -24,7 +24,7 @@
 				</li>
 			</ul>
 		</li>
-		<li><span>Documentation</span>
+		<li><a href="#" class="empty">Documentation</a>
 			<ul>
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul>
@@ -44,7 +44,7 @@
 				<li><a href="http://translation.cakephp.org">Translations</a></li>
 			</ul>
 		</li>
-		<li><span>Community</span>
+		<li><a href="#" class="empty">Community</a>
 			<ul>
 				<li><a href="http://bakery.cakephp.org">Bakery</a></li>
 				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
@@ -65,3 +65,18 @@
 		</li>
 	</ul>
 </div>
+<script>
+$(function() {
+	$("#cakephp-global-navigation ul li a.empty").bind('mouseleave mouseenter click', function(event) {
+		var submenu = $(this).parent().children('ul');
+		if (event.type == 'mouseleave') {
+			submenu.hide();
+		} else if (event.type == 'mouseenter') {
+			submenu.show();
+		} else {
+			submenu.toggle();
+		}
+		return false;
+	});
+})
+</script>
