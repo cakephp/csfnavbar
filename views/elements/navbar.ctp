@@ -67,8 +67,8 @@
 </div>
 <script>
 $(function() {
-	$("#cakephp-global-navigation ul li a.empty").bind('mouseleave mouseenter click', function(event) {
-		var submenu = $(this).parent().children('ul');
+	$("#cakephp-global-navigation ul li a.empty").parent().bind('mouseleave mouseenter click', function(event) {
+		var submenu = $(this).children('ul');
 		if (event.type == 'mouseleave') {
 			submenu.hide();
 		} else if (event.type == 'mouseenter') {
