@@ -67,16 +67,17 @@
 </div>
 <script>
 $(function() {
-	$("#cakephp-global-navigation ul li a.empty").parent().bind('mouseleave mouseenter click', function(event) {
-		var submenu = $(this).children('ul');
-		if (event.type == 'mouseleave') {
-			submenu.hide();
-		} else if (event.type == 'mouseenter') {
-			submenu.show();
-		} else {
-			submenu.toggle();
-		}
-		return false;
-	});
+	$("#cakephp-global-navigation ul li a.empty")
+		.click(function(e) { e.preventDefault(); })
+		.parent().bind('mouseleave mouseenter click', function(event) {
+			var submenu = $(this).children('ul');
+			if (event.type == 'mouseleave') {
+				submenu.hide();
+			} else if (event.type == 'mouseenter') {
+				submenu.show();
+			} else {
+				submenu.toggle();
+			}
+		});
 })
 </script>
