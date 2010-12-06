@@ -65,7 +65,8 @@
 		</li>
 	</ul>
 </div>
-<script>
+<?php
+$script = <<<js
 $(function() {
 	$("#cakephp-global-navigation ul li a.empty")
 		.click(function(e) { e.preventDefault(); })
@@ -80,4 +81,6 @@ $(function() {
 			}
 		});
 })
-</script>
+js;
+$this->Js->buffer($script);
+?>
