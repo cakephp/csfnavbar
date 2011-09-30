@@ -30,7 +30,7 @@
 					<ul>
 						<li><a href="http://api11.cakephp.org">1.1</a>&nbsp;|</li>
 						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
-						<li><a href="http://api13.cakephp.org">1.3</a></li>
+						<li><a href="http://api13.cakephp.org">1.3</a>&nbsp;|</li>
 						<li><a href="http://api20.cakephp.org">2.0</a></li>
 					</ul>
 				</li>
@@ -38,7 +38,7 @@
 					<ul>
 						<li><a href="http://book.cakephp.org/view/305/The-Manual">1.1</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/view/3/The-Manual">1.2</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/view/876/The-Manual">1.3</a></li>
+						<li><a href="http://book.cakephp.org/view/876/The-Manual">1.3</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/2.0/en/">2.0</a></li>
 					</ul>
 				</li>
