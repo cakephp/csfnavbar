@@ -2,32 +2,32 @@
 	<ul>
 		<li class="main"><a href="http://cakephp.org">CakePHP</a></li>
 		<li><a href="#" class="empty">Downloads</a>
-			<ul>
+			<ul class="second-level">
 				<li><a href="http://cakephp.org">Latest Release</a></li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.2">CakePHP 1.2</a>
-					<ul>
+					<ul class="third-level">
 						<li><a href="http://github.com/cakephp/cakephp/archives/1.2">Download</a>&nbsp;|</li>
 						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp/milestones">Tickets</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.3">CakePHP 1.3</a>
-					<ul>
+					<ul class="third-level">
 						<li><a href="http://github.com/cakephp/cakephp/archives/1.3">Download</a>&nbsp;|</li>
 						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp/milestones">Tickets</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/2.0">CakePHP 2.0</a>
-					<ul>
-						<!-- <li><a href="#">Download</a>|</li> -->
+					<ul class="third-level">
+						<li><a href="http://github.com/cakephp/cakephp/archives/2.0">Download</a>|</li>
 						<li><a href="http://cakephp.lighthouseapp.com/projects/42648-cakephp/milestones">Tickets</a></li>
 					</ul>
 				</li>
 			</ul>
 		</li>
 		<li><a href="#" class="empty">Documentation</a>
-			<ul>
+			<ul class="second-level">
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
-					<ul>
+					<ul class="third-level">
 						<li><a href="http://api11.cakephp.org">1.1</a>&nbsp;|</li>
 						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
 						<li><a href="http://api13.cakephp.org">1.3</a>&nbsp;|</li>
@@ -35,7 +35,7 @@
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
-					<ul>
+					<ul class="third-level">
 						<li><a href="http://book.cakephp.org/view/305/The-Manual">1.1</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/view/3/The-Manual">1.2</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/view/876/The-Manual">1.3</a>&nbsp;|</li>
@@ -47,7 +47,7 @@
 			</ul>
 		</li>
 		<li><a href="#" class="empty">Community</a>
-			<ul>
+			<ul class="second-level">
 				<li><a href="http://bakery.cakephp.org">Bakery</a></li>
 				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
 				<li><a href="http://groups.google.com/group/cake-php">Google Groups</a></li>
@@ -58,7 +58,7 @@
 			</ul>
 		</li>
 		<li><a href="http://cakephp.org/services">Services</a>
-			<ul>
+			<ul class="second-level">
 				<li><a href="http://cakephp.org/services/certification">Certification</a></li>
 				<li><a href="http://cakephp.org/services/consultation">Consultation</a></li>
 				<li><a href="http://cakephp.org/services/support">Support</a></li>
@@ -70,18 +70,7 @@
 <?php
 $script = <<<js
 $(function() {
-	$("#cakephp-global-navigation ul li a.empty")
-		.click(function(e) { e.preventDefault(); })
-		.parent().bind('mouseleave mouseenter click', function(event) {
-			var submenu = $(this).children('ul');
-			if (event.type == 'mouseleave') {
-				submenu.hide();
-			} else if (event.type == 'mouseenter') {
-				submenu.show();
-			} else {
-				submenu.toggle();
-			}
-		});
+
 })
 js;
 $this->Js->buffer($script);
