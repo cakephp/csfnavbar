@@ -41,9 +41,10 @@
 				</li>
 				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
 					<ul>
-						<li><a href="http://book.cakephp.org/view/304/x1-1-Collection">1.1</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/view/2/x1-2-Collection">1.2</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/view/875/x1-3-Collection">1.3</a></li>
+						<li><a href="http://book.cakephp.org/1.1/en/view/305/The-Manual">1.1</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.1/en/view/3/The-Manual">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.1/en/view/876/The-Manual">1.3</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/2.0/en/">2.0</a></li>
 					</ul>
 				</li>
 				<li><a href="http://translation.cakephp.org">Translations</a></li>
