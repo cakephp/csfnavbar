@@ -1,7 +1,7 @@
 <div id="cakephp-global-navigation">
 	<ul>
 		<li class="main"><a href="http://cakephp.org">CakePHP</a></li>
-		<li><a href="#" class="empty">Downloads</a>
+		<li class="primary"><a href="#" class="empty">Downloads</a>
 			<ul class="second-level">
 				<li><a href="http://cakephp.org">Latest Release</a></li>
 				<li class="cake-version"><a href="http://github.com/cakephp/cakephp/tree/1.2">CakePHP 1.2</a>
@@ -24,7 +24,7 @@
 				</li>
 			</ul>
 		</li>
-		<li><a href="#" class="empty">Documentation</a>
+		<li class="primary"><a href="#" class="empty">Documentation</a>
 			<ul class="second-level">
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul class="third-level">
@@ -46,7 +46,7 @@
 				<li><a href="http://translation.cakephp.org">Translations</a></li>
 			</ul>
 		</li>
-		<li><a href="#" class="empty">Community</a>
+		<li class="primary"><a href="#" class="empty">Community</a>
 			<ul class="second-level">
 				<li><a href="http://bakery.cakephp.org">Bakery</a></li>
 				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
@@ -57,7 +57,7 @@
 				<li><a href="http://tv.cakephp.org">TV (Screencasts)</a></li>
 			</ul>
 		</li>
-		<li><a href="http://cakephp.org/services">Services</a>
+		<li class="primary"><a href="http://cakephp.org/services">Services</a>
 			<ul class="second-level">
 				<li><a href="http://cakephp.org/services/certification">Certification</a></li>
 				<li><a href="http://cakephp.org/services/consultation">Consultation</a></li>
