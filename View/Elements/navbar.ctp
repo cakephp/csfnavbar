@@ -43,7 +43,6 @@
 					</ul>
 				</li>
 				<li><a href="http://cakephp.lighthouseapp.com">Tickets</a></li>
-				<li><a href="http://translation.cakephp.org">Translations</a></li>
 			</ul>
 		</li>
 		<li class="primary"><a href="#" class="empty">Community</a>
