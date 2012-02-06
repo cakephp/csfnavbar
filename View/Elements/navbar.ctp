@@ -28,18 +28,18 @@
 			<ul class="second-level">
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul class="third-level">
-						<li><a href="http://api11.cakephp.org">1.1</a>&nbsp;|</li>
-						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
+						<li><a href="http://api20.cakephp.org">2.0</a>&nbsp;|</li>
 						<li><a href="http://api13.cakephp.org">1.3</a>&nbsp;|</li>
-						<li><a href="http://api20.cakephp.org">2.0</a></li>
+						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
+						<li><a href="http://api11.cakephp.org">1.1</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
 					<ul class="third-level">
-						<li><a href="http://book.cakephp.org/1.1/en/view/305/The-Manual">1.1</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/1.1/en/view/3/The-Manual">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/2.0/en/">2.0</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/1.1/en/view/876/The-Manual">1.3</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/2.0/en/">2.0</a></li>
+						<li><a href="http://book.cakephp.org/1.1/en/view/3/The-Manual">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.1/en/view/305/The-Manual">1.1</a></li>
 					</ul>
 				</li>
 				<li><a href="http://cakephp.lighthouseapp.com">Tickets</a></li>
@@ -61,7 +61,7 @@
 				<li><a href="http://cakephp.org/services/certification">Certification</a></li>
 				<li><a href="http://cakephp.org/services/consultation">Consultation</a></li>
 				<li><a href="http://cakephp.org/services/support">Support</a></li>
-				<li><a href="http://cakephp.org/services/training">Training</a></li>
+				<li><a href="http://training.cakephp.org">Training</a></li>
 			</ul>
 		</li>
 	</ul>
