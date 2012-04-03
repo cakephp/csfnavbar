@@ -53,11 +53,3 @@
 		</li>
 	</ul>
 </div>
-<?php
-$script = <<<js
-$(function() {
-
-})
-js;
-$this->Js->buffer($script);
-?>
