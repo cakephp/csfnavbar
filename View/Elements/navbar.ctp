@@ -11,6 +11,7 @@
 			<ul class="second-level">
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul class="third-level">
+						<li><a href="http://api21.cakephp.org">2.1</a>&nbsp;|</li>
 						<li><a href="http://api20.cakephp.org">2.0</a>&nbsp;|</li>
 						<li><a href="http://api13.cakephp.org">1.3</a>&nbsp;|</li>
 						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
