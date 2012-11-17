@@ -31,7 +31,8 @@
 						<li><a href="http://api11.cakephp.org">1.1</a>&nbsp;|</li>
 						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
 						<li><a href="http://api13.cakephp.org">1.3</a>&nbsp;|</li>
-						<li><a href="http://api20.cakephp.org">2.0</a></li>
+						<li><a href="http://api20.cakephp.org">2.0</a>&nbsp;|</li>
+						<li><a href="http://api21.cakephp.org">2.1</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
