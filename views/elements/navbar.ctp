@@ -22,7 +22,8 @@
 					<ul class="third-level">
 						<li><a href="http://book.cakephp.org/2.0/en/">2.x</a>&nbsp;|</li>
 						<li><a href="http://book.cakephp.org/1.3/en/">1.3</a>&nbsp;|</li>
-						<li><a href="http://book.cakephp.org/1.1/en">1.1</a></li>
+						<li><a href="http://book.cakephp.org/1.2/en/">1.2</a>&nbsp;|</li>
+						<li><a href="http://book.cakephp.org/1.1/en/">1.1</a></li>
 					</ul>
 				</li>
 			</ul>
