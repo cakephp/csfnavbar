@@ -28,16 +28,24 @@
 				</li>
 			</ul>
 		</li>
-		<li class="primary"><a href="#" class="empty">Community</a>
+		<li class="primary"><a href="http://community.cakephp.org">Community</a>
 			<ul class="second-level">
+				<li><a href="http://webchat.freenode.net/?channels=cakephp&uio=MT1mYWxzZSY5PXRydWUmMTE9MjQ2b8">Help &amp; Support</a></li>
 				<li><a href="http://cakephp.lighthouseapp.com">Issues</a></li>
-				<li><a href="http://bakery.cakephp.org">Bakery</a></li>
-				<li><a href="http://plugins.cakephp.org">Plugins &amp; packages</a></li>
+				<li><a href="http://bakery.cakephp.org">The Bakery</a></li>
+				<li><a href="http://stackoverflow.com/tags/cakephp">Stack Overflow</a></li>
+				<li><a href="http://www.facebook.com/groups/cake.community">Facebook Group</a></li>
+				<li><a href="http://goo.gl/mSC0s">Google+ Community</a></li>
+				<li><a href="http://www.quora.com/CakePHP">Quora Questions</a></li>
+				<li><a href="http://www.youtube.com/user/CakePHP">YouTube Channel</a></li>
+				<li><a href="http://twitter.com/CakePHP">Follow us on Twitter</a></li>
+				<li><a href="http://groups.google.com/group/cake-php">Google Group</a></li>
 				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
-				<li><a href="http://groups.google.com/group/cake-php">Google Groups</a></li>
+				<li><a href="http://plugins.cakephp.org">Plugins &amp; Packages</a></li>
+				<li><a href="http://community.cakephp.org/get-involved">Get Involved</a></li>
+				<li><a href="http://community.cakephp.org/guidelines">Guidelines</a></li>
+				<li><a href="http://cakefest.org">CakeFest</a></li>
 				<li><a href="http://cakephp.org/logos">Logo</a></li>
-				<li><a href="http://ask.cakephp.org">Q &amp; A</a></li>
-				<li><a href="http://tv.cakephp.org">TV (Screencasts)</a></li>
 			</ul>
 		</li>
 		<li class="primary"><a href="http://cakephp.org/services">Services</a>
