@@ -36,7 +36,6 @@
 				<li><a href="http://stackoverflow.com/tags/cakephp">Stack Overflow</a></li>
 				<li><a href="http://www.facebook.com/groups/cake.community">Facebook Group</a></li>
 				<li><a href="http://goo.gl/mSC0s">Google+ Community</a></li>
-				<li><a href="http://www.quora.com/CakePHP">Quora Questions</a></li>
 				<li><a href="http://www.youtube.com/user/CakePHP">YouTube Channel</a></li>
 				<li><a href="http://twitter.com/CakePHP">Follow us on Twitter</a></li>
 				<li><a href="http://groups.google.com/group/cake-php">Google Group</a></li>
