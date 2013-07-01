@@ -30,7 +30,7 @@
 		</li>
 		<li class="primary"><a href="http://community.cakephp.org">Community</a>
 			<ul class="second-level">
-				<li><a href="http://webchat.freenode.net/?channels=cakephp&uio=MT1mYWxzZSY5PXRydWUmMTE9MjQ2b8">Help &amp; Support</a></li>
+				<li><a href="http://webchat.freenode.net/?channels=cakephp">Help &amp; Support</a></li>
 				<li><a href="http://cakephp.lighthouseapp.com">Issues</a></li>
 				<li><a href="http://bakery.cakephp.org">The Bakery</a></li>
 				<li><a href="http://stackoverflow.com/tags/cakephp">Stack Overflow</a></li>
