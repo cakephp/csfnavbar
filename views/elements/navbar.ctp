@@ -30,11 +30,12 @@
 		</li>
 		<li class="primary"><a href="#" class="empty">Contribute</a>
 			<ul class="second-level">
+				<li><a href="https://cakephp.lighthouseapp.com/projects/42648/development-roadmap">Roadmap</a></li>
 				<li><a href="http://book.cakephp.org/2.0/en/contributing.html">How to Contribute</a></li>
-				<li><a href="https://github.com/cakephp/">GitHub</a></li>
-				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
+				<li><a href="https://github.com/cakephp/">Source Code Repositories @ GitHub</a></li>
 				<li><a href="https://cakephp.lighthouseapp.com">Issues</a></li>
 				<li><a href="https://www.transifex.com/projects/p/cakephp/">Translations</a></li>
+				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
 			</ul>
 		</li>
 		<li class="primary"><a href="http://community.cakephp.org">Community</a>
