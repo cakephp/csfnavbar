@@ -11,11 +11,11 @@
 			<ul class="second-level">
 				<li class="cake-version"><a href="http://api.cakephp.org">API</a>
 					<ul class="third-level">
-						<li><a href="http://api.cakephp.org">2.3</a>&nbsp;|</li>
-						<li><a href="http://api22.cakephp.org">2.2</a>&nbsp;|</li>
-						<li><a href="http://api13.cakephp.org">1.3</a>&nbsp;|</li>
-						<li><a href="http://api12.cakephp.org">1.2</a>&nbsp;|</li>
-						<li><a href="http://api11.cakephp.org">1.1</a></li>
+						<li><a href="http://api.cakephp.org/2.4">2.4</a>&nbsp;|</li>
+						<li><a href="http://api.cakephp.org/2.3">2.3</a>&nbsp;|</li>
+						<li><a href="http://api.cakephp.org/1.3">1.3</a>&nbsp;|</li>
+						<li><a href="http://api.cakephp.org/1.2">1.2</a>&nbsp;|</li>
+						<li><a href="http://api.cakephp.org/1.1">1.1</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://book.cakephp.org">Book</a>
@@ -31,7 +31,7 @@
 		<li class="primary"><a href="http://community.cakephp.org">Community</a>
 			<ul class="second-level">
 				<li><a href="http://webchat.freenode.net/?channels=cakephp&uio=MT1mYWxzZSY5PXRydWUmMTE9MjQ2b8">Help &amp; Support</a></li>
-				<li><a href="http://cakephp.lighthouseapp.com">Issues</a></li>
+				<li><a href="https://github.com/cakephp/cakephp/issues">Issues</a></li>
 				<li><a href="http://bakery.cakephp.org">The Bakery</a></li>
 				<li><a href="http://stackoverflow.com/tags/cakephp">Stack Overflow</a></li>
 				<li><a href="http://www.facebook.com/groups/cake.community">Facebook Group</a></li>
