@@ -31,7 +31,7 @@
 		<li class="primary"><a href="http://community.cakephp.org">Community</a>
 			<ul class="second-level">
 				<li><a href="http://webchat.freenode.net/?channels=cakephp">Help &amp; Support</a></li>
-				<li><a href="http://cakephp.lighthouseapp.com">Issues</a></li>
+				<li><a href="https://github.com/cakephp/cakephp/issues">Issues</a></li>
 				<li><a href="http://bakery.cakephp.org">The Bakery</a></li>
 				<li><a href="http://stackoverflow.com/tags/cakephp">Stack Overflow</a></li>
 				<li><a href="http://www.facebook.com/groups/cake.community">Facebook Group</a></li>
