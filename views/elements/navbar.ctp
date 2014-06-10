@@ -33,7 +33,7 @@
 				<li><a href="https://cakephp.lighthouseapp.com/projects/42648/development-roadmap">Roadmap</a></li>
 				<li><a href="http://book.cakephp.org/2.0/en/contributing.html">How to Contribute</a></li>
 				<li><a href="https://github.com/cakephp/">Source Code</a></li>
-				<li><a href="https://cakephp.lighthouseapp.com">Issues</a></li>
+				<li><a href="https://github.com/cakephp/cakephp/issues/">Issues</a></li>
 				<li><a href="https://www.transifex.com/projects/p/cakephp/">Translations</a></li>
 				<li><a href="http://github.com/cakephp/cakephp/contributors">Contributors</a></li>
 			</ul>
