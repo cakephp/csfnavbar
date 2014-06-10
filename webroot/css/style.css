@@ -56,7 +56,7 @@
 	height: 25px;
 	line-height: 23px;
 	position: relative;
-	width: 120px;
+	width: 105px;
 	padding: 3px 0;
 	list-style-image: none;
 }
@@ -97,7 +97,7 @@
  */
 #cakephp-global-navigation ul ul {
 	display: none;
-	width: 200px;
+	width: 154px;
 	margin: 0;
 	padding: 0;
 	height: auto;
@@ -115,7 +115,7 @@
 #cakephp-global-navigation ul li ul li {
 	display: block;
 	float: none;
-	width: 196px;
+	width: 150px;
 	padding: 2px;
 	margin: 0;
 }
