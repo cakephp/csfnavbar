@@ -13,7 +13,7 @@
 					<ul class="third-level">
 						<li><a href="http://api.cakephp.org/2.5/">2.5</a>&nbsp;|</li>
 						<li><a href="http://api.cakephp.org/2.4/">2.4</a>&nbsp;|</li>
-						<li><a href="http://api.cakephp.org/2.3/">2.3</a>&nbsp;|</li>
+						<li><a href="http://api.cakephp.org/2.3/">2.3</a></li>
 					</ul>
 				</li>
 				<li class="cake-version"><a href="http://api.cakephp.org/1.3/">API 1.x</a>
