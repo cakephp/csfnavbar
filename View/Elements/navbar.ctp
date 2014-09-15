@@ -45,6 +45,7 @@
 				<li><a href="http://community.cakephp.org/guidelines">Guidelines</a></li>
 				<li><a href="http://cakefest.org">CakeFest</a></li>
 				<li><a href="http://cakephp.org/logos">Logo</a></li>
+				<li><a href="http://podcast.cakephp.org">Podcasts</a></li>
 			</ul>
 		</li>
 		<li class="primary"><a href="http://cakephp.org/services">Services</a>
