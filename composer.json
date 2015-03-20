@@ -1,0 +1,11 @@
+{
+    "name": "cakephp/csfnavbar",
+    "description": "Top bar navigation for CakePHP domains",
+    "type": "cakephp-plugin",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Csfnavbar\\": "src"
+        }
+    }
+}
